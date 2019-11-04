@@ -5,7 +5,6 @@ function initialize() {
     minus = document.calc.operator.options[1];
     divide = document.calc.operator.options[2];
     multiply = document.calc.operator.options[3];
-    division=document.
 }
 
 function add(a, b) {
